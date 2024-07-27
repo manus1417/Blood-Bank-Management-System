@@ -35,6 +35,6 @@ Blood Bank Donation System is a php based web project with both admin and user l
    
 # Screenshots
 
-<h3> User Panel Images </h3>
-
+All the screenshots are in report.
+     
    
